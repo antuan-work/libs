@@ -4,3 +4,5 @@
 [hybridauth](https://github.com/hybridauth/hybridauth) - Авторизация через соц.сети
 
 [DavBackup](https://github.com/dmamontov/davbackup/blob/master/DavBackup.php) - Создание резервных копий сайтов в облаках через WebDAV
+
+[Locust](https://locust.io/) - Простой Python-based инструмент для нагрузочного тестирования
